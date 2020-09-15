@@ -4,7 +4,7 @@
 
 Add expenses and deposits to their budget with or without a connection.
 
-## Access Here [Workout Tracker](https://budgettracker01.herokuapp.com/)
+## Access Here [Budget Tracker](https://budgettracker01.herokuapp.com/)
 
 * **The final and deployed page looks like this**
 
